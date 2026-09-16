@@ -48,41 +48,54 @@ I'm a passionate developer interested in building practical, user-friendly, and 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 🏪 Jay Bhole Pipe & Hardware Shop ERP
 
-A Django-based Shop Management ERP system designed to manage day-to-day hardware shop operations.
+A Django-based ERP system designed to manage day-to-day hardware shop operations including products, inventory, billing, customers, suppliers, purchases, Udhari, expenses and reports.
 
 **Features:**
+
+- 📊 Dashboard & Business Overview
 - 📦 Product & Inventory Management
 - 👥 Customer Management
 - 🚚 Supplier Management
 - 🧾 Billing & Invoice Management
-- 💰 Udhari / Credit Management
+- 💳 Udhari / Credit Management
 - 🛒 Purchase Management
-- 💸 Expense Management
-- 📊 Dashboard & Reports
+- 💰 Expense Management
+- 📈 Reports & Business Insights
+- 🔎 Global Search
+- 💾 Backup Management
 
-**Tech:** Python • Django • HTML • CSS • Bootstrap • JavaScript • SQLite
+**Tech:** Python • Django • HTML5 • CSS3 • Bootstrap • JavaScript • SQLite
+
+🔗 [Live Demo](https://jaybholeshop-five.vercel.app/)  
+🔗 [GitHub Repository](https://github.com/harsh-099/Jay_Bhole_pipe_and_hardware_shop_ERP)
 
 ---
 
 ### 📝 Online Examination System
 
-A web-based examination platform for managing students, teachers, online exams, questions, marks, and results.
+A Django-based online examination platform for managing students, teachers, examinations, questions, marks and results.
 
 **Features:**
-- 👨‍🎓 Student Management
+
+- 👨‍🎓 Student Registration & Management
 - 👨‍🏫 Teacher Management
 - 🔐 Authentication & Authorization
 - 📝 Online Examinations
-- ⏱️ Exam Management
-- 📊 Marks & Results
-- 🖼️ Student Profile Management
+- ❓ Multiple-Choice Questions
+- ⏱️ Exam Timer
+- 💾 Save & Next Question Navigation
+- 🟢 Attempted Question Indication
+- 📊 Automatic Result Calculation
+- 👤 Student Profile Management
+- 📷 Student Profile Photo & Camera Capture
 
-**Tech:** Python • Django • HTML • CSS • JavaScript • Bootstrap • SQLite
+**Tech:** Python • Django • HTML5 • CSS3 • JavaScript • Bootstrap • SQLite
+
+🔗 [GitHub Repository](https://github.com/harsh-099/online_examination_system)
 
 ---
 
@@ -90,16 +103,36 @@ A web-based examination platform for managing students, teachers, online exams, 
 
 A responsive and interactive web-based Tic Tac Toe game with a clean and simple user interface.
 
-**Tech:** HTML • CSS • JavaScript
+**Features:**
+
+- 🎮 Interactive Gameplay
+- 📱 Responsive Design
+- 🔄 Game Reset Functionality
+- ✨ Clean User Interface
+
+**Tech:** HTML5 • CSS3 • JavaScript
+
+🔗 [GitHub Repository](https://github.com/harsh-099/Tic_Tac_Toe_Game)
 
 ---
 
 ### 🌐 Personal Portfolio
 
-A personal portfolio website showcasing my skills, projects, and developer profile.
+A modern and responsive personal portfolio website showcasing my skills, projects and professional developer profile.
 
-**Tech:** HTML • CSS • JavaScript
+**Features:**
 
+- 💼 Professional Developer Profile
+- 🛠️ Skills & Technology Showcase
+- 🚀 Featured Projects
+- 📄 Resume Section
+- 🔗 Professional & Social Links
+- 📱 Responsive Design
+
+**Tech:** Next.js • React • TypeScript • JavaScript • HTML5 • CSS3
+
+🔗 [Live Portfolio](https://harshnilpatilportfolio.vercel.app/)  
+🔗 [GitHub Repository](https://github.com/harsh-099/portfolio_web)
 
 
 ## 🤝 Connect With Me
