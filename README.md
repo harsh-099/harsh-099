@@ -100,16 +100,7 @@ A personal portfolio website showcasing my skills, projects, and developer profi
 
 **Tech:** HTML • CSS • JavaScript
 
----
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh-099&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-099&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
----
 
 ## 🤝 Connect With Me
 
