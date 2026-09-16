@@ -50,6 +50,27 @@ I'm a passionate developer interested in building practical, user-friendly, and 
 ---
 ## 🚀 Featured Projects
 
+
+### 🌐 Personal Portfolio
+
+A modern and responsive personal portfolio website showcasing my skills, projects and professional developer profile.
+
+**Features:**
+
+- 💼 Professional Developer Profile
+- 🛠️ Skills & Technology Showcase
+- 🚀 Featured Projects
+- 📄 Resume Section
+- 🔗 Professional & Social Links
+- 📱 Responsive Design
+
+**Tech:** Next.js • React • TypeScript • JavaScript • HTML5 • CSS3
+
+🔗 [Live Portfolio](https://harshnilpatilportfolio.vercel.app/)  
+🔗 [GitHub Repository](https://github.com/harsh-099/portfolio_web)
+
+
+
 ### 🏪 Jay Bhole Pipe & Hardware Shop ERP
 
 A Django-based ERP system designed to manage day-to-day hardware shop operations including products, inventory, billing, customers, suppliers, purchases, Udhari, expenses and reports.
@@ -115,25 +136,6 @@ A responsive and interactive web-based Tic Tac Toe game with a clean and simple 
 🔗 [GitHub Repository](https://github.com/harsh-099/Tic_Tac_Toe_Game)
 
 ---
-
-### 🌐 Personal Portfolio
-
-A modern and responsive personal portfolio website showcasing my skills, projects and professional developer profile.
-
-**Features:**
-
-- 💼 Professional Developer Profile
-- 🛠️ Skills & Technology Showcase
-- 🚀 Featured Projects
-- 📄 Resume Section
-- 🔗 Professional & Social Links
-- 📱 Responsive Design
-
-**Tech:** Next.js • React • TypeScript • JavaScript • HTML5 • CSS3
-
-🔗 [Live Portfolio](https://harshnilpatilportfolio.vercel.app/)  
-🔗 [GitHub Repository](https://github.com/harsh-099/portfolio_web)
-
 
 ## 🤝 Connect With Me
 
