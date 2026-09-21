@@ -132,7 +132,7 @@ A responsive and interactive web-based Tic Tac Toe game with a clean and simple 
 - ✨ Clean User Interface
 
 **Tech:** HTML5 • CSS3 • JavaScript
-
+🔗 [Live Demo]([https://tic-tac-toe-hp.vercel.app/])
 🔗 [GitHub Repository](https://github.com/harsh-099/Tic_Tac_Toe_Game)
 
 ---
