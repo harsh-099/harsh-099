@@ -4,6 +4,8 @@
 
 I'm a passionate developer interested in building practical, user-friendly, and real-world web applications. I enjoy turning ideas into working software and continuously improving my development and problem-solving skills.
 
+## Computer Engineering Student
+
 ---
 
 ## 👨‍💻 About Me
